@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @xxxpatixxx
-- 👀 I’m interested in baum
-- 🌱 I’m currently learning sleeping
+gg whats up i think you reading this am i right?
 
 <!---
 xxxpatixxx/xxxpatixxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
